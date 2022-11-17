@@ -1,5 +1,5 @@
 
-## Hello World, i'm Patrick. 😌
+## Hello World, I'm Patrick. 😌
 
   
 
@@ -7,7 +7,7 @@
 
   
 
-#### 🚧 Since i was using gitlab, some of my projects are not yet at github, keep in mind that i'm still structuring my repo. 😉
+#### 🚧 Since I was using GitLab, some of my projects are not yet at GitHub, keep in mind that I'm still structuring my repo. 😉
 
   
   
